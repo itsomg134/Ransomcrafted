@@ -131,7 +131,7 @@ answer = analyzer.ask("What files were affected in the last ransomware attack?")
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.9+
@@ -177,7 +177,7 @@ docker run -v /path/to/monitor:/data \
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -188,7 +188,7 @@ docker run -v /path/to/monitor:/data \
 │  └──────────┘  └──────────┘  └──────────┘  └──────────┘       │
 │                                                                  │
 │  ┌────────────────────────────────────────────────────────┐     │
-│  │              🤖 AI Assistance Layer                     │     │
+│  │                AI Assistance Layer                     │     │
 │  │  ┌────────────┐  ┌────────────┐  ┌────────────┐       │     │
 │  │  │ AI Agent   │  │ Deepgram   │  │ OpenAI     │       │     │
 │  │  │ (Orchestrator)│ │ Transcriber│  │ Analyzer   │       │     │
@@ -208,7 +208,7 @@ docker run -v /path/to/monitor:/data \
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 Example `config.yaml` with AI settings:
 
