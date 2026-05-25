@@ -11,11 +11,11 @@
 
 **Ransomcrafted** is a smart, proactive defense system that detects ransomware in real-time, automatically isolates infected endpoints, and recovers encrypted data using AI-assisted restoration — all while generating compliance-ready incident reports.
 
-[Demo](#-demo) • [Features](#-key-features) • [AI Integration](#-ai-integration) • [Installation](#-installation) • [Architecture](#-architecture) • [API](https://aistudio.google.com/u/1/) • [Contributing](#-contributing)
+[Demo](#-demo) • [Features](#-key-features) • [AI Integration](https://console.deepgram.com) • [Installation](#-installation) • [Architecture](#-architecture) • [API](https://aistudio.google.com/u/1/) • [Contributing](#-contributing)
 
 ---
 
-##  Demo
+##  Demo tiem line
 
 ```
 [13:22:01]  Ransomware detected: Mass file rename + entropy spike
