@@ -530,61 +530,24 @@ MIT © [Ransomcrafted Team](LICENSE)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **OpenAI** - GPT-4 for threat analysis & reporting
 - **Deepgram** - Nova-2 for real-time transcription
 - NoMoreRansom Project
 - MITRE ATT&CK Framework
-- Sigma Rules Community
+- Ogworks Community
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- Issues: [GitHub Issues](https://github.com/yourusername/ransomcrafted/issues)
-- Security: security@ransomcrafted.com
-- Twitter: [@Ransomcrafted](https://twitter.com/ransomcrafted)
-- AI Feature Requests: ai@ransomcrafted.com
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
----
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-**Star ⭐ this repo if you find it useful!**
-```
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
 
----
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
 
-## Key Additions Made:
-
-### 1. **AI Assistance Agent API**
-- Full agent class with `analyze_ransom_note()`, `chat()` methods
-- Orchestrates between Deepgram and OpenAI
-- Natural language incident summaries
-
-### 2. **Deepgram API**
-- Real-time audio transcription
-- Threat keyword detection
-- Voice-activated security commands
-- SOC room transcription
-
-### 3. **OpenAI API**
-- Behavioral threat analysis
-- Ransomware family identification
-- Natural language report generation
-- Chat interface for SOC analysts
-
-### 4. **Updated Sections**
-- Demo shows all three AI services in action
-- Architecture diagram includes AI layer
-- Configuration YAML has full AI settings
-- API endpoints for each AI service
-- Environment variables for API keys
-- Testing includes AI-specific tests
-
-### 5. **New Files in Structure**
-- `ai/assistance_agent/` - Core agent logic
-- `ai/deepgram/` - Transcription + streaming
-- `ai/openai/` - Analysis + chat
-- `.env.example` - API key management
-
-Want me to also generate the actual Python implementation files for any of these AI integrations?
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
