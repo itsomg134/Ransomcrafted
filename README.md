@@ -15,40 +15,40 @@
 
 ---
 
-## 📸 Demo
+##  Demo
 
 ```
-$ [13:22:01] 🚨 Ransomware detected: Mass file rename + entropy spike
-$ [13:22:02] 🔒 Isolating endpoint: DESKTOP-FIN01
-$ [13:22:02] ✋ Terminating malicious process: PID 4423 (ransom.exe)
-$ [13:22:03] 🤖 AI Assistance Agent: Analyzing ransom note...
-$ [13:22:04] 🎙️ Deepgram Audio Analysis: No voice anomalies detected
-$ [13:22:04] 🧠 OpenAI Analysis: Decryptor found on NoMoreRansom
-$ [13:22:05] 🔄 Restoring from shadow copy: Version 2025-04-01 12:00:00
-$ [13:22:07] ✅ Recovery complete: 1,247 files restored
-$ [13:22:07] 📊 Incident report generated: RC-2025-04-01-001
-$ Recovery successful! 0% data loss
+[13:22:01]  Ransomware detected: Mass file rename + entropy spike
+[13:22:02]  Isolating endpoint: DESKTOP-FIN01
+[13:22:02]  Terminating malicious process: PID 4423 (ransom.exe)
+[13:22:03]  AI Assistance Agent: Analyzing ransom note...
+[13:22:04]  Deepgram Audio Analysis: No voice anomalies detected
+[13:22:04]  OpenAI Analysis: Decryptor found on NoMoreRansom
+[13:22:05]  Restoring from shadow copy: Version 2025-04-01 12:00:00
+[13:22:07]  Recovery complete: 1,247 files restored
+[13:22:07]  Incident report generated: RC-2025-04-01-001
+Recovery successful! 0% data loss
 ```
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 | Feature | Description |
 |---------|-------------|
-| **👁️ Real-time Monitoring** | File system hooks + behavioral analysis (entropy spikes, mass renames, ransom note patterns) |
-| **🔒 Automated Isolation** | Network segmentation, process termination, share revocation |
-| **🤖 AI-Assisted Recovery** | Intelligent restoration from shadow copies / backups with verification |
-| **🧠 AI Assistance Agent** | LLM-powered assistant for real-time guidance, ransom note analysis, and recovery recommendations |
-| **🎙️ Deepgram API** | Audio transcription & analysis for voice-based attack alerts and security briefings |
-| **🌐 OpenAI API** | Advanced threat intelligence, ransom note decryption analysis, and natural language incident reports |
-| **📄 Incident Reporting** | SOC-ready reports with IOCs, timeline, and recovery status |
-| **⚡ Low Latency** | <2s detection-to-response |
-| **🧩 Lightweight Agent** | Rust/C++ core with minimal CPU/memory footprint |
+| ** Real-time Monitoring** | File system hooks + behavioral analysis (entropy spikes, mass renames, ransom note patterns) |
+| ** Automated Isolation** | Network segmentation, process termination, share revocation |
+| ** AI-Assisted Recovery** | Intelligent restoration from shadow copies / backups with verification |
+| ** AI Assistance Agent** | LLM-powered assistant for real-time guidance, ransom note analysis, and recovery recommendations |
+| ** Deepgram API** | Audio transcription & analysis for voice-based attack alerts and security briefings |
+| ** OpenAI API** | Advanced threat intelligence, ransom note decryption analysis, and natural language incident reports |
+| ** Incident Reporting** | SOC-ready reports with IOCs, timeline, and recovery status |
+| ** Low Latency** | <2s detection-to-response |
+| ** Lightweight Agent** | Rust/C++ core with minimal CPU/memory footprint |
 
 ---
 
-## 🤖 AI Integration
+##  AI Integration
 
 ### AI Assistance Agent API
 
@@ -74,10 +74,10 @@ print(response.severity)             # "CRITICAL"
 ```
 
 **Agent Capabilities:**
-- 🧠 Ransom note parsing & family identification
-- 📝 Natural language incident summaries
-- 🔍 IOC extraction and threat intelligence lookup
-- 🗣️ Voice interaction via Deepgram (spoken alerts)
+-  Ransom note parsing & family identification
+-  Natural language incident summaries
+-  IOC extraction and threat intelligence lookup
+-  Voice interaction via Deepgram (spoken alerts)
 
 ### Deepgram API Integration
 
