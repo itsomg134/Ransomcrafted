@@ -375,7 +375,7 @@ Full API docs: [`/docs/api.md`](docs/api.md)
 
 ---
 
-## 💬 AI Assistant Chat Interface
+## AI Assistant Chat Interface
 
 ```python
 from ransomcrafted.ai import AIAssistanceAgent
@@ -397,7 +397,7 @@ print(response)
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Run the test suite:
 
@@ -420,7 +420,7 @@ python scripts/test_ai_agent.py
 
 ---
 
-## 📊 Performance Benchmarks
+## Performance Benchmarks
 
 | Metric | Value |
 |--------|-------|
@@ -434,7 +434,7 @@ python scripts/test_ai_agent.py
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 | Variable | Required | Description |
 |----------|----------|-------------|
@@ -446,7 +446,7 @@ python scripts/test_ai_agent.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
@@ -471,7 +471,7 @@ cp .env.example .env
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ransomcrafted/
@@ -484,16 +484,16 @@ ransomcrafted/
 │   ├── api/
 │   ├── orchestrator/
 │   └── reporting/
-├── ai/                   # 🤖 AI Integration Layer
+├── ai/                   # AI Integration Layer
 │   ├── assistance_agent/ # AI Assistance Agent
 │   │   ├── agent.py      # Core agent logic
 │   │   ├── prompts/      # LLM prompt templates
 │   │   └── tools/        # Agent tools (file search, threat intel)
-│   ├── deepgram/         # 🎙️ Deepgram API integration
+│   ├── deepgram/         # Deepgram API integration
 │   │   ├── transcriber.py
 │   │   ├── stream.py     # Real-time streaming
 │   │   └── keywords.py   # Threat keyword detection
-│   └── openai/           # 🌐 OpenAI API integration
+│   └── openai/           # OpenAI API integration
 │       ├── analyzer.py   # Behavioral analysis
 │       ├── reporter.py   # Report generation
 │       └── chat.py       # Chat interface
@@ -516,7 +516,7 @@ ransomcrafted/
 
 ---
 
-## 🛡️ Disclaimer
+## Disclaimer
 
 **For authorized security testing only.** Do not deploy Ransomcrafted in production without proper validation. The authors assume no liability for misuse or unintended system behavior.
 
@@ -524,7 +524,7 @@ ransomcrafted/
 
 ---
 
-## 📄 License
+## License
 
 MIT © [Ransomcrafted Team](LICENSE)
 
