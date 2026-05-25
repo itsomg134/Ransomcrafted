@@ -179,7 +179,7 @@ docker run -v /path/to/monitor:/data \
 
 ## Architecture
 
-<img width="801" height="685" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/a330b75e-c805-49b9-ae62-7b2007fb70dd" />
+<img width="850" height="1100" alt="jhh" src="https://github.com/user-attachments/assets/7f8470b0-6598-483a-819e-e48db1f595ef" />
 
 
 ---
