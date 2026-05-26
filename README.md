@@ -36,15 +36,15 @@ Recovery successful! 0% data loss
 
 | Feature | Description |
 |---------|-------------|
-| ** Real-time Monitoring** | File system hooks + behavioral analysis (entropy spikes, mass renames, ransom note patterns) |
-| ** Automated Isolation** | Network segmentation, process termination, share revocation |
-| ** AI-Assisted Recovery** | Intelligent restoration from shadow copies / backups with verification |
-| ** AI Assistance Agent** | LLM-powered assistant for real-time guidance, ransom note analysis, and recovery recommendations |
-| ** Deepgram API** | Audio transcription & analysis for voice-based attack alerts and security briefings |
-| ** OpenAI API** | Advanced threat intelligence, ransom note decryption analysis, and natural language incident reports |
-| ** Incident Reporting** | SOC-ready reports with IOCs, timeline, and recovery status |
-| ** Low Latency** | <2s detection-to-response |
-| ** Lightweight Agent** | Rust/C++ core with minimal CPU/memory footprint |
+| Real-time Monitoring | File system hooks + behavioral analysis (entropy spikes, mass renames, ransom note patterns) |
+| Automated Isolation  | Network segmentation, process termination, share revocation |
+| AI-Assisted Recovery | Intelligent restoration from shadow copies / backups with verification |
+| AI Assistance Agent | LLM-powered assistant for real-time guidance, ransom note analysis, and recovery recommendations |
+| Deepgram API | Audio transcription & analysis for voice-based attack alerts and security briefings |
+| OpenAI API | Advanced threat intelligence, ransom note decryption analysis, and natural language incident reports |
+| Incident Reporting | SOC-ready reports with IOCs, timeline, and recovery status |
+| Low Latency | 2s detection-to-response |
+| Lightweight Agent | Rust/C++ core with minimal CPU/memory footprint |
 
 ---
 
