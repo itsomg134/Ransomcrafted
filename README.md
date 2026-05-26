@@ -101,7 +101,7 @@ async for alert in transcriber.stream_microphone():
 **Use Cases:**
 - Voice-activated security commands ("Isolate endpoint Finance-01")
 - Real-time SOC room transcription
-- 🔊 Audio alert analysis for false positive reduction
+- Audio alert analysis for false positive reduction
 
 ### OpenAI API Integration
 
