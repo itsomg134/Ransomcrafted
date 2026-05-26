@@ -77,7 +77,7 @@ print(response.severity)             # "CRITICAL"
 -  Ransom note parsing & family identification
 -  Natural language incident summaries
 -  IOC extraction and threat intelligence lookup
--  Voice interaction via Deepgram (spoken alerts)
+-  Voice interaction via Deepgram
 
 ### Deepgram API Integration
 
