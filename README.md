@@ -50,7 +50,7 @@ Recovery successful! 0% data loss
 
 ##  AI Integration
 
-### AI Assistance Agent API
+### AI Assistance
 
 The AI Assistance Agent provides real-time, natural language support during ransomware incidents.
 
