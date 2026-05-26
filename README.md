@@ -15,7 +15,7 @@
 
 ---
 
-##  Demo time line
+## Demo time line
 
 ```
 [13:22:01]  Ransomware detected: Mass file rename + entropy spike
