@@ -88,7 +88,6 @@ from ransomcrafted.audio import DeepgramTranscriber
 
 transcriber = DeepgramTranscriber(api_key="your-deepgram-key")
 
-# Transcribe security briefing
 transcript = transcriber.transcribe("security_briefing.mp3")
 # Output: "Ransomware detected on finance server at 2 PM..."
 
