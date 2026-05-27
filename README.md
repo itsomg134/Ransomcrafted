@@ -64,7 +64,6 @@ agent = AIAssistanceAgent(
     deepgram_api_key="your-key"
 )
 
-# Analyze ransom note
 response = agent.analyze_ransom_note(
     note_text="YOUR FILES HAVE BEEN ENCRYPTED. Send 1 BTC to wallet..."
 )
