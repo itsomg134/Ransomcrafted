@@ -91,7 +91,7 @@ transcriber = DeepgramTranscriber(api_key="your-deepgram-key")
 transcript = transcriber.transcribe("security_briefing.mp3")
 # Output: "Ransomware detected on finance server at 2 PM..."
 
-# Real-time voice alert monitoring
+# Real-time voice alert 
 async for alert in transcriber.stream_microphone():
     if "ransomware" in alert.transcript:
         trigger_isolation()
