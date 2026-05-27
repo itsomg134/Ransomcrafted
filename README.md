@@ -70,7 +70,7 @@ response = agent.analyze_ransom_note(
     note_text="YOUR FILES HAVE BEEN ENCRYPTED. Send 1 BTC to wallet..."
 )
 
-print(response.decryptor_available)  # True/False
+print(response.decryptor_available)
 print(response.recommended_action)   # "Check NoMoreRansom"
 print(response.severity)              "CRITICAL"
 ```
