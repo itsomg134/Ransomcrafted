@@ -50,6 +50,8 @@ Recovery successful! 0% data loss
 
 ##  AI Integration
 
+<img width="1897" height="888" alt="image" src="https://github.com/user-attachments/assets/5265dee5-05bb-4d79-8da8-79f9656d2dba" />
+
 ### AI Assistance
 
 The AI Assistance Agent provides real-time, natural language support during ransomware incidents.
