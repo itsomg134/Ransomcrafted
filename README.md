@@ -59,7 +59,6 @@ The AI Assistance Agent provides real-time, natural language support during rans
 ```python
 from ransomcrafted import AIAssistanceAgent
 
-# Initialize agent
 agent = AIAssistanceAgent(
     openai_api_key="your-key",
     deepgram_api_key="your-key"
