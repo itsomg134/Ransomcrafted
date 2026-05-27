@@ -513,7 +513,7 @@ MIT © [Ransomcrafted Team](LICENSE)
 - **OpenAI** - GPT-4 for threat analysis & reporting
 - **Deepgram** - Nova-2 for real-time transcription
 - NoMoreRansom Project
-- MITRE ATT&CK Framework
+- Chate Framework
 - Ogworks Community
 
 ---
