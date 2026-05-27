@@ -72,7 +72,7 @@ response = agent.analyze_ransom_note(
 
 print(response.decryptor_available)  # True/False
 print(response.recommended_action)   # "Check NoMoreRansom"
-print(response.severity)             # "CRITICAL"
+print(response.severity)              "CRITICAL"
 ```
 
 **Agent Capabilities:**
