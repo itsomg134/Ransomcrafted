@@ -246,7 +246,7 @@ reporting:
 
 ---
 
-## 📡 API
+## API
 
 ### AI Assistance Agent API
 
